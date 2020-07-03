@@ -1,7 +1,5 @@
 #Developer-Track
-
 ##Front-end-Developer
-
 HTML, CSS, JavaScript
 
 ##Back-end-Developer
