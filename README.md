@@ -16,7 +16,7 @@ PHP
 Ruby
 
 
-## Full-stack-Developer
+## Full-stack Developer
 
 HTML, CSS, JavaScript, Node
 HTML, CSS, JavaScript, Django
