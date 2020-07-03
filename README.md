@@ -1,8 +1,10 @@
 # Developer-Track
 
+
 ## Front-end-Developer
 
 HTML, CSS, JavaScript
+Bootstrap, React
 
 ## Back-end-Developer
 
@@ -18,3 +20,5 @@ Ruby
 
 HTML, CSS, JavaScript, Node
 HTML, CSS, JavaScript, Django
+HTML, CSS, JavaScript, Node
+HTML, CSS, JavaScript, .NET
