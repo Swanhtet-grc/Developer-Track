@@ -1,12 +1,12 @@
 # Developer-Track
 
 
-## Front-end-Developer
+## Front-end Developer
 
 HTML, CSS, JavaScript
 Bootstrap, React
 
-## Back-end-Developer
+## Back-end Developer
 
 JavaScript
 Python
