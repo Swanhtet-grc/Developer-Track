@@ -1,6 +1,6 @@
-              # Developer-Track
+# Developer-Track
 
-      ## Front-end-Developer
+## Front-end-Developer
 
 HTML, CSS, JavaScript
 
@@ -14,7 +14,7 @@ PHP
 Ruby
 
 
-##Full-stack-Developer
+## Full-stack-Developer
 
 HTML, CSS, JavaScript, Node
 HTML, CSS, JavaScript, Django
