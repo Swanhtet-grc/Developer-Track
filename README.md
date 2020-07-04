@@ -4,7 +4,6 @@
 ## Front-end Developer
 
 HTML, CSS, JavaScript
-
 Bootstrap, React
 
 ## Back-end Developer
